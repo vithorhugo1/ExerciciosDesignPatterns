@@ -1,0 +1,4 @@
+br\com\designpatterns_decorator_ex\Notifier.class
+br\com\designpatterns_decorator_ex\NotifierInterface.class
+br\com\designpatterns_decorator_ex\NotifierStatus.class
+br\com\designpatterns_decorator_ex\DesignPatterns_Decorator_Ex.class

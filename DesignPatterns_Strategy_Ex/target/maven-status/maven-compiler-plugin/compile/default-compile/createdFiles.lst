@@ -1,0 +1,7 @@
+br\com\designpatterns_strategy_ex\PaymentStorage.class
+br\com\designpatterns_strategy_ex\FormaPagamento.class
+br\com\designpatterns_strategy_ex\Bitcoin.class
+br\com\designpatterns_strategy_ex\Dinheiro.class
+br\com\designpatterns_strategy_ex\DesignPatterns_Strategy_Ex.class
+br\com\designpatterns_strategy_ex\CartaoCredito.class
+br\com\designpatterns_strategy_ex\PayPal.class

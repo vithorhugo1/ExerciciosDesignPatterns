@@ -1,0 +1,6 @@
+br\com\designpatterns_observer_ex\Observer.class
+br\com\designpatterns_observer_ex\StatusBar.class
+br\com\designpatterns_observer_ex\Stock.class
+br\com\designpatterns_observer_ex\Subject.class
+br\com\designpatterns_observer_ex\StockListView.class
+br\com\designpatterns_observer_ex\DesignPatterns_Observer_Ex.class
